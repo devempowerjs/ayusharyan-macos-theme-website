@@ -1,19 +1,54 @@
-# MacOS Themed Personal Portfolio Website
+# 🍎 macOS-Themed Web Application
 
-This This is the OFFICIAL SRC of MacOS Themed Personal Portfolio Website created by [Ayush Aryan](https://github.com/ayusharyan28)
+A modern, high-performance **macOS-inspired web interface** built with a cutting-edge frontend stack.  
+This project focuses on smooth animations, clean UI, and a desktop-like user experience — all inside the browser.
 
-## Support
+---
 
-For support, feature requests, or bug reports:
-- Email: aayushjha2014@gmail.com
-- GitHub: [Ayush Aryan](https://github.com/ayusharyan28)
+## ✨ Features
 
-## License
+- 🎨 **macOS-inspired UI/UX**
+- ⚡ Ultra-fast performance with **Vite**
+- 🧠 Type-safe development using **TypeScript**
+- 🎥 Smooth, fluid animations powered by **Framer Motion**
+- 📱 Fully responsive and adaptive layout
+- 🧩 Component-driven architecture with **React**
+- 🎯 Clean, maintainable, and scalable codebase
 
-The app is made under MIT License - See LICENSE file for details
+---
 
-## Version History
+## 🛠 Tech Stack
 
-### v1.0.0
+| Technology | Usage |
+|----------|------|
+| **TypeScript** | Type-safe JavaScript |
+| **React** | Component-based UI |
+| **Tailwind CSS** | Utility-first styling |
+| **Framer Motion** | Animations & transitions |
+| **Vite** | Lightning-fast build tool |
 
-- Initial release
+---
+
+## 🎯 Design Philosophy
+
+This project is designed to:
+
+Mimic the look & feel of macOS
+
+Deliver smooth desktop-like animations
+
+Maintain clean separation of concerns
+
+Scale easily for future features
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+Feel free to use, modify, and distribute.
+
+👨‍💻 Author
+Designed and Developed by [devempowerjs (Mayank Raj)](https://github.com/devempowerjs).
+
+
