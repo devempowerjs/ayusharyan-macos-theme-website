@@ -48,7 +48,13 @@ Scale easily for future features
 This project is licensed under the MIT License.
 Feel free to use, modify, and distribute.
 
+---
+## 
 👨‍💻 Author
+
 Designed and Developed by [devempowerjs (Mayank Raj)](https://github.com/devempowerjs).
+
+Full-Stack Web Developer • Student Innovator • Open-Source Creator | Modern Web Applications
+
 
 
